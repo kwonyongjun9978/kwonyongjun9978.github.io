@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       한눈에볼까?
+      en      : &EN       한눈에볼래?
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
