@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       한눈에볼래?
+      en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -13,7 +13,7 @@ header:
       zh-Hant : &ZH_HANT  歸檔
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
+      ko      : &KO       한눈에볼래?
       ko-KR   : *KO
       fr      : &FR       Archives
       fr-BE   : *FR
